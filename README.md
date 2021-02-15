@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @JosephEmil
+- 👀 I’m interested in Full Stack Web Development
+- 🌱 I’m currently learning Cloud Architecture
+- 📫 How to reach me: emilthuruthen@gmail.com
